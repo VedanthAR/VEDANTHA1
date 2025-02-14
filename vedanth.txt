@@ -2,5 +2,7 @@
 A=20
 B=25
 Addition=A+B
+Subtraction=A-B
+print(Subtraction)
 print(Addition)
 
