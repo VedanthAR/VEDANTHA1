@@ -1,0 +1,6 @@
+
+A=20
+B=25
+Addition=A+B
+print(Addition)
+
