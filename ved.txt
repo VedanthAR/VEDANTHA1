@@ -5,3 +5,9 @@ git
 shyam 
 vijay
 glenn
+naveen
+dell
+hp
+mouse
+keyboard
+
