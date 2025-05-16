@@ -26,3 +26,24 @@ s2=".join(sorted(s2.replace("","").lower()))
 print(s1==s2)
 s="aabbcc"
 result=s[0]
+if s[1]!=result:
+    result+=s[1]
+    if s[2] not in result:
+        result+=s[2]
+        if s[3] not in result:
+            result+=s[3]
+            if s[4] not in result:
+                result+=s[4]
+                if s[5] not in result:
+                    result+=s[5]
+                    print(result)
+                    s="madam"
+                    print(s==s[::-1])
+                    s="babad"
+                    print("bab")
+                    a1=["eat,"tea","ate"]
+                    a2=["tan","Nat"]
+                    a3=["bat"]
+                    print([a1,a2,a3])
+                    s="abcabcbb"
+                    print(3)
