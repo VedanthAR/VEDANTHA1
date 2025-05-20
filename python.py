@@ -18,4 +18,6 @@ elif(op==0):
  print('invalid input')
 print("hi")
 print("vijay S singer")
-
+print("hi hello")
+print("i am good")
+print("github")
