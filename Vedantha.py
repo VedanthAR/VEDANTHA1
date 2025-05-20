@@ -47,3 +47,6 @@ if s[1]!=result:
                     print([a1,a2,a3])
                     s="abcabcbb"
                     print(3)
+                    print(hi)
+                    print(hello)
+                    print(github)
